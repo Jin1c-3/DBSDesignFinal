@@ -1,0 +1,1 @@
+请为我写SQL语句，表名：DailyCheckStat，列名：EmpID,CheckDate,OvertimeHour,WorkDay,BussinessTripDay,AbsenceDay,LateDay。这是一个每日签到、考勤表，其中EmpID是25-42之间的数字。请为我生成50条这样的插入语句
